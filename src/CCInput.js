@@ -13,7 +13,7 @@ const s = StyleSheet.create({
   baseInputStyle: {
     color: "black",
     padding: 10,
-    fontSize: 16
+    fontSize: 16,
   },
 });
 
